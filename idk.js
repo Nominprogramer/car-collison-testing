@@ -1,0 +1,3 @@
+function collison(obj,target){
+    
+}
